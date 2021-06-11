@@ -1,10 +1,11 @@
 import React from 'react'
 import Typed from 'react-typed'
+import Images from '../Images/header.jpg'
 export default function Header() {
     return (
         <>
             <section id="header-section">
-            <div  className="header-wraper">
+            <div  className="header-wraper" style={{backgroundImage:`url(${Images})`}}>
                 <div className="dark-overlay">
                 <div className="main-info">
                     <h1>Front End Developer</h1>

@@ -2,11 +2,11 @@ import React from 'react'
 import {IoMdDesktop} from 'react-icons/io'
 import {MdDeveloperMode} from 'react-icons/md'
 import {FaWordpress } from 'react-icons/fa'
-
+import Images from '../Images/services.jpg'
 export default function Services() {
     return (
         <>
-            <section id="service-section">
+            <section id="service-section" style={{backgroundImage:`url(${Images})`}}>
                 <div className="dark-skill-overlay">
                 <div className="container">
                     <div className="row mt-5 text-center">

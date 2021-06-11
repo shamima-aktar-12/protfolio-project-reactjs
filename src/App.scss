@@ -58,7 +58,7 @@ nav ul li{
   margin-bottom: 40px;
   .header-wraper{
     position: relative;
-    background-image: url('https://images.pexels.com/photos/4050299/pexels-photo-4050299.jpeg?cs=srgb&dl=pexels-vlada-karpovich-4050299.jpg&fm=jpg');
+   
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -151,7 +151,6 @@ nav ul li{
 } 
 /*-------------------Services Section---------------------*/
 #service-section{
-  background: url("https://images.pexels.com/photos/114907/pexels-photo-114907.jpeg?cs=srgb&dl=pexels-monoar-rahman-114907.jpg&fm=jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -265,6 +264,7 @@ button[type="submit"]{
     height: 150vh;
   }
 }
+
 /*-------------------Footer Section---------------------*/
 #footer-section{
   background-color: $primary-dark-background;

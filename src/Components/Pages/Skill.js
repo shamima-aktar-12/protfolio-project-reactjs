@@ -12,7 +12,7 @@ export default function Skill() {
                     </div>
                     <div className="row mt-5">
                         <div className="col-md-6">
-                      <img src={Images} className="htmlpic img-fluid" alt="imag-2"></img>
+                     <img src={Images} className="htmlpic" alt="img-2"></img>
                         </div>
                         <div className="col-md-6">
                         <p className="progress-color">HTML5</p>

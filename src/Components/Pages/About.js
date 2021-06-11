@@ -1,5 +1,5 @@
 import React from 'react'
-import Image from '../Images/myimage.jpg'
+import Images from '../Images/myimage.jpg'
 export default function About() {
     return (
         <>
@@ -7,7 +7,7 @@ export default function About() {
                 <div className="container">
                     <div className="row mt-5">
                     <div className="col-md-6">
-                        <img src={Image} className="image img-fluid" alt="img-1" />
+                       <img src={Images} className="image img-fluid" alt="img-1"></img>
                     </div>
                     <div className="col-md-6">
                         <h2 className="about-header">ABOUT ME</h2>
