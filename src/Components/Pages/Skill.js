@@ -17,27 +17,31 @@ export default function Skill() {
                         <div className="col-md-6">
                         <p className="progress-color">HTML5</p>
                         <div class="progress">
-                            <div class="progress-bar bg-warning" role="progressbar" style={{width: '95%'}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">95%</div>
+                            <div class="progress-bar bg-warning" role="progressbar" style={{width: '95%'}}  aria-valuemin="0" aria-valuemax="100">95%</div>
                            </div>
                       <p className="progress-color">CSS3</p>
                       <div class="progress">
-                            <div class="progress-bar bg-dark" role="progressbar" style={{width: '90%'}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">90%</div>
+                            <div class="progress-bar bg-dark" role="progressbar" style={{width: '90%'}}  aria-valuemin="0" aria-valuemax="100">90%</div>
+                           </div>
+                           <p className="progress-color">SASS</p>
+                      <div class="progress">
+                            <div class="progress-bar bg-warning" role="progressbar" style={{width: '90%'}}  aria-valuemin="0" aria-valuemax="100">90%</div>
                            </div>
                       <p className="progress-color">Bootstrap 4/5</p>
                       <div class="progress">
-                            <div class="progress-bar bg-warning" role="progressbar" style={{width: '80%'}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">80%</div>
+                            <div class="progress-bar  bg-dark" role="progressbar" style={{width: '80%'}}  aria-valuemin="0" aria-valuemax="100">80%</div>
                            </div>
                       <p className="progress-color">React Js</p>
                       <div class="progress">
-                            <div class="progress-bar bg-dark" role="progressbar" style={{width: '70%'}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">70%</div>
+                            <div class="progress-bar bg-warning" role="progressbar" style={{width: '70%'}}  aria-valuemin="0" aria-valuemax="100">70%</div>
                            </div>
                       <p className="progress-color">Jquery</p>
                       <div class="progress">
-                            <div class="progress-bar bg-warning" role="progressbar" style={{width: '60%'}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">60%</div>
+                            <div class="progress-bar  bg-dark" role="progressbar" style={{width: '60%'}}  aria-valuemin="0" aria-valuemax="100">60%</div>
                            </div>
                       <p className="progress-color">Javascript</p>
                       <div class="progress">
-                            <div class="progress-bar bg-dark" role="progressbar" style={{width: '60%'}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">60%</div>
+                            <div class="progress-bar bg-warning" role="progressbar" style={{width: '60%'}}  aria-valuemin="0" aria-valuemax="100">60%</div>
                            </div>
                         </div>
                     </div>
